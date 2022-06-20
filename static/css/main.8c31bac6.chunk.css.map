@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css","webpack://src/components/TodoList/TodoList.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CCFA,eACE,SACF","file":"main.8c31bac6.chunk.css","sourcesContent":[".App {\r\n  text-align: center;\r\n}\r\n",".error_message {\n  color: #f00;\n}\n"]}
